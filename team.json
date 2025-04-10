@@ -48,7 +48,6 @@
   "masters": [
     {
       "description": "I am a Master’s student in the Genetics and Molecular Biology graduate program at the University of Campinas and I have a bachelor in Biological Sciences from Paulista’s State University (Bauru campus). It is of great interest to me to study the evolution of animals and my research is focused on the molecular evolution of the sensory systems of cetaceans and sirenians. I love music, musicals and cooking delicious meals.",
-      "image": "https://drive.google.com/uc?id=164y_8hIVIumjSpnQbMEKGHZk43ENjNBl",
       "name": "Ana Luiza Borba",
       "email": "analuizaclein@gmail.com",
       "site": "http://lattes.cnpq.br/1921686981791604"
@@ -76,13 +75,6 @@
     }
   ],
   "undergrad": [
-    {
-      "description": "I am a Biology undergraduate student at the University of Campinas. I have a degree in Science, Literature, and Arts from ProFIS. I am doing my Scientific Initiation at LGE, however, I do not work with genetics, I prefer to work with Zoology and Natural History. My research project aims to investigate sexual segregation in cetaceans. I love the beach, watching cartoons, or staying with my pets.",
-      "image": "https://drive.google.com/uc?export=view&id=1DumovHhiehlMz-W2IjnZA1NEcePkQF7G",
-      "name": "Bruna Marconato",
-      "email": "brunamarconato1@gmail.com",
-      "site": "http://lattes.cnpq.br/4190028544313462"
-    },
     {
       "description": "As an undergraduate student majoring in Biological Science at the Institute of Biosciences of UNESP - Botucatu, I am passionate about understanding how evolutionary processes can overcome complex challenges in various contexts. At present, my research project centers on examining the evolution of regulatory regions in cancer-associated bat genes. When I am not in the lab, I enjoy spending my free time engaging in hobbies such as tinkering with my 3D printer, playing tabletop RPGs, and exploring different aspects of “nerd” and “maker” cultures.",
       "image": "https://drive.google.com/uc?id=1RriU8bsV01dcljhcvx-sEGTUwwYv50-8",
@@ -125,6 +117,11 @@
       "name": "Felipe André Silva",
       "degree": "Master’s degree",
       "site": "http://lattes.cnpq.br/5292077779972313"
+    },
+    {
+      "name": "Bruna Marconato",
+      "degree": "Undergrad Research and collaborator",
+      "site": "http://lattes.cnpq.br/4190028544313462"
     },
     {
       "name": "Letícia Magpali Moura Estevão",
