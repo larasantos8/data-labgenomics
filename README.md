@@ -177,3 +177,10 @@ Exemplo final no JSON:
 "image": "https://drive.google.com/uc?id=1eeRi6BbwlAVqmsuV8z0EkxAq_2g5zSAV"
 
 ```
+
+### Extras
+Vídeo com explicação rápida:
+https://www.loom.com/share/054a9f3caad640a9af68d6655b3f0243?sid=851e4a61-ef03-4764-84e5-b6dd67a41a6d
+
+Lembrando que ao alterar um dado e subir para esse repositório automaticamente os dados no site serão alterados, mas importante ressaltar que leva alguns minutos para refletir as atualizações feitas.
+
